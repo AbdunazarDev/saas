@@ -1,3 +1,3 @@
 # saas
 
-<a href="https://abdunazardev.github.io/saas/">Live Saas</a>
+<a href="https://abdunazardev.github.io/saas/" target="_blank">Live Saas</a>
